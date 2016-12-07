@@ -1,5 +1,5 @@
 # DionysDocumentation
 
-Linkki Android Applicaation repoon: [](https://github.com/PudgeWorks/DionysAndroidApp)
+Linkki Android Applicaation repoon: [linkki](https://github.com/PudgeWorks/DionysAndroidApp)
 
-Linkki REST API repoon: [](https://github.com/PudgeWorks/DnysRest)
+Linkki REST API repoon: [linkki](https://github.com/PudgeWorks/DnysRest)
